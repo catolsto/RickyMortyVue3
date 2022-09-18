@@ -1,6 +1,6 @@
-# peliculas
+# RickyMortyAPP
 
-This template should help get you started developing with Vue 3 in Vite.
+Ver demo realizado: (https://rickymorty-vue3.netlify.app/)
 
 ## Recommended IDE Setup
 
